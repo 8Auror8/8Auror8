@@ -54,5 +54,4 @@
 
 ![Static Badge](https://img.shields.io/badge/Aurora%20Zarazaga-blue?color=blue&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Faurora-zarazaga%2F)
 </p>
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=8Auror8.visitor-badge)]
 
